@@ -53,20 +53,20 @@ print(norm_of_matrix)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-![](./norm1)
+![](./norm1.png)
 <br>
 <br>
 <br>
 
 ### 2-Norm of a Matrix
 
-![](./norm2)
+![](./norm2.png)
 <br>
 <br>
 <br>
 
 ### Infinity Norm of a Matrix
-![](./infnorm)
+![](./infnorm.png)
 <br>
 <br>
 <br>
